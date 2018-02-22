@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "648878917118",
+    "firebase_url": "https://farmacia-agora-c478f.firebaseio.com",
+    "project_id": "farmacia-agora-c478f",
+    "storage_bucket": "farmacia-agora-c478f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648878917118:android:3d0d7ab0411000fd",
+        "android_client_info": {
+          "package_name": "farmaciaagora.alphalumos.com.appusuariofarmaciaagora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648878917118-89ppotgmsubt3t93bllgvh2vkraqvl94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "farmaciaagora.alphalumos.com.appusuariofarmaciaagora",
+            "certificate_hash": "59918726ac087de3f580182cf2bea7e2d5ab2c71"
+          }
+        },
+        {
+          "client_id": "648878917118-irabhd8gg11duf13r9obe9qd5s8svr6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtElVDuFmLS1Saxx3qPO3uLPJSQp8pTEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648878917118-irabhd8gg11duf13r9obe9qd5s8svr6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
